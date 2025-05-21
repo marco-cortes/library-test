@@ -1,3 +1,1 @@
-export function saludar(nombre: string): string {
-    return `Hola, ${nombre}!`;
-}
+export { Notification, NotificationType } from './Notifications';
